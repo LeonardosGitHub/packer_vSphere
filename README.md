@@ -1,4 +1,4 @@
 # packer_vSphere
 
 
-Use the repo from [Sam Gabrail](https://github.com/samgabrail/packer-terraform-vmware) to build this for my environment.
+Use the following repo from [Sam Gabrail](https://github.com/samgabrail/packer-terraform-vmware) as a guide to build this for my environment.
